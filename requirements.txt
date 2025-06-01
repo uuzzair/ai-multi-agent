@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+llama-cpp-python
+sentence-transformers
+faiss-cpu
+langchain
+python-dotenv
